@@ -1,8 +1,8 @@
-// Storing variables.
+// Store variables.
 let firstFavNum = 26;
 let secondFavNum = 14;
 
-// Performing operations.
+// Perform operations.
 let sum = firstFavNum + secondFavNum;
 let difference = firstFavNum - secondFavNum;
 let product = firstFavNum * secondFavNum;
