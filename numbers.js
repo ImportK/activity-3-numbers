@@ -1,4 +1,4 @@
-// Storing 
+// Storing variables.
 let firstFavNum = 26;
 let secondFavNum = 14;
 
